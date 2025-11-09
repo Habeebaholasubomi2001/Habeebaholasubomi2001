@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Habeebah Olasubomi
+- 👋 Hi, I’m Habeebah Olasubomi Sulayman
 - 👀 I’m interested in learning about tech and tech related stuffs
-- 🌱 I’m currently learning Javascript, CSS and HTML
-- 💞️ I’m looking to collaborate on various projects
+- 💞️ I’m looking to collaborate on various projects. My tech stack (HTML, JS, CSS, TailwindCSS, React/JS, React/TS, Next/JS, Kotlin)
 - 📫 How to reach me Twitter [@HabeebahOlasub1]
 
 <!---
